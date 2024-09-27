@@ -1,0 +1,11 @@
+{
+    "name": "Assistant",
+    "name1": "User",
+    "history": [
+      {"speaker": "name", "message": "Why did the cat sit on the computer? Because she wanted to keep an eye on the mouse!"},
+      {"speaker": "name1", "message": "What was the first joke you told me about cats?"},
+      {"speaker": "name", "message": "The first joke I told you was: Why did the cat sit on the computer? Because she wanted to keep an eye on the mouse!"}
+    ],
+    "topic": "cats"
+  }
+  

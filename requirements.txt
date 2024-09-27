@@ -1,0 +1,7 @@
+cohere
+chromadb
+langchain-text-splitters
+langchain-chroma
+langchain-cohere
+pyaudio
+keyboard
