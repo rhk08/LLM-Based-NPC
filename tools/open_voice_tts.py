@@ -22,7 +22,7 @@ class OpenVoiceTTS:
         # Load the source speaker embedding
         self.source_se = torch.load(f'{base_speaker_ckpt}/en_default_se.pth').to(self.device)
 
-    def extract_target_speaker(self, reference_speaker_path, processed_dir='processed', vad=True):
+    def extract_target_speaker(self, reference_speaker_path, processed_dir='OpenVoice/processed', vad=True):
         """
         Extracts the speaker embedding from a reference speaker.
         """
