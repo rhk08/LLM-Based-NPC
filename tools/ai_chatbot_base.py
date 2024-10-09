@@ -1,6 +1,5 @@
 import os
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_cohere import ChatCohere
 from langchain_chroma import Chroma
 from langchain_cohere import CohereEmbeddings
 import chromadb
@@ -8,9 +7,12 @@ import chromadb
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from uuid import uuid4
 
-import shutil
+import getpass
+from langchain_cohere import ChatCohere
+from langchain_core.messages import HumanMessage
+from langchain_core.messages import AIMessage
 
-class AIChatbot:
+class AIChatbotBase:
     def __init__(self, api_key_file='api.txt', game="elden_ring", character="white_mask_varre"):
         # Read the API key from file
         self.api_key = self._read_api_key(api_key_file)
