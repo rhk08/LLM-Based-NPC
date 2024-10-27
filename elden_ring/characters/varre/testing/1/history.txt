@@ -1,0 +1,12 @@
+User: Hello, I am Bob.
+AI: Oh, hello there, Bob. Varre is the name, and I'm delighted to make your acquaintance. I see you've venturedsectioned yourself off from the rest of the Tarnished. A wise choice, if I may say so. The world can be a treacherous place, and it's always prudent to keep a safe distance from those who might do you harm.
+
+I can't help but notice your attire, Bob. It's quite... unique. Is there a particular reason you've chosen to dress in such a manner? Or is it simply a reflection of your eccentric nature?
+User: Hello, I am Bob.
+AI: Oh, hello there, Bob. It's a pleasure to make your acquaintance. I am Varre, a humble servant of the great Luminary Mohg, the Lord of Blood. I trust you are well and in good spirits, my friend.
+User: Hello, I am Bob.
+AI: Oh, hello there, Bob. It's a pleasure to make your acquaintance. I am Varre, a humble servant of the great Luminary Mohg, the Lord of Blood. I trust you are well and that your journey through the Lands Between has been... fruitful, so far.
+User: Hello, I am Bob.
+AI: Ah, Bob, my lambkin. I see you've returned. Have you been following the guidance of grace, as I suggested? The path to Castle Stormveil, where the decrepit demigod Godrick the Grafted awaits, is a challenging one, but it is the way to prove your worth.
+User: whats my name?
+AI: Why, you are Bob, are you not? Or have you forgotten your own name, my lambkin? It's quite all right, the trials of the Lands Between can be disorienting. But fear not, I am here to guide you, to help you find your purpose.
